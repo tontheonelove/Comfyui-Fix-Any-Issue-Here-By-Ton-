@@ -12,7 +12,7 @@ https://civitai.com/models/876388/flux1-turbo-alpha
 Dwonload T5XXL MODEL from here
 ![image](https://github.com/user-attachments/assets/38b45c5b-54d7-4736-8a52-536bf81fd5fa)
 
-Work flow Download  
+Work flow Download  https://www.mediafire.com/file/he7foek4lhcx63y/Flux_FaceSwap.json/file
 
 Import Work flow and install all missing node
 
