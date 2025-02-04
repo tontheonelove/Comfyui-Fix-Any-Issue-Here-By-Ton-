@@ -9,7 +9,7 @@ https://civitai.com/models/969431/flux-fill-fp8
 Download Flux Turbo Lora and place in /models/loras/
 https://civitai.com/models/876388/flux1-turbo-alpha
 
-Dwonload from here
+Dwonload T5XXL MODEL from here
 ![image](https://github.com/user-attachments/assets/38b45c5b-54d7-4736-8a52-536bf81fd5fa)
 
 Work flow Download  
