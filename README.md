@@ -1,4 +1,4 @@
-# Face swapping Flux 
+![image](https://github.com/user-attachments/assets/ac2cd749-0c11-4fea-abbb-b1558adbb1e5)# Face swapping Flux 
 
 Download comfyui_portrait_lora64.safetensors and place in /models/loras/
 https://huggingface.co/ali-vilab/ACE_Plus/tree/main/portrait
@@ -12,6 +12,8 @@ https://civitai.com/models/876388/flux1-turbo-alpha
 Work flow Download  
 
 Import Work flow and install all missing node
+
+<img src= faceswap.png>
 
 
 
