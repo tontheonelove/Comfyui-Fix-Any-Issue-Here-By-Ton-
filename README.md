@@ -1,3 +1,21 @@
+# Face swapping Flux 
+
+Download comfyui_portrait_lora64.safetensors and place in /models/loras/
+https://huggingface.co/ali-vilab/ACE_Plus/tree/main/portrait
+
+Download Flux Fill fp8 and place in /models/diffusion_models/
+https://civitai.com/models/969431/flux-fill-fp8
+
+Download Flux Turbo Lora and place in /models/loras/
+https://civitai.com/models/876388/flux1-turbo-alpha
+
+Work flow Download  
+
+Import Work flow and install all missing node
+
+
+
+
 # ton-comfyui-workflow
 
 ComFy UI Portable use python for update custom node 
