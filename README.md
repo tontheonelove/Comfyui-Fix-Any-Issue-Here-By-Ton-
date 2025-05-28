@@ -27,7 +27,6 @@ Import Work flow and install all missing node
 
 
 
-# ton-comfyui-workflow
 
 ComFy UI Portable use python for update custom node 
 
