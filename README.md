@@ -1,5 +1,9 @@
 # Comfyui Fix Any Issue Here (When I Found and Fixed It)
 
+## List (update 24- 3 - 25)
+
+- [LayerUtility: Florence2Image2Prompt 'NoneType' object is not callable..](xxxx)
+
 ## LayerUtility: Florence2Image2Prompt 'NoneType' object is not callable
 
 How to Fix 🪛 Run 👉 python.exe -m pip install transformers==4.43.2
