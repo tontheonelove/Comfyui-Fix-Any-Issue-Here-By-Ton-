@@ -1,5 +1,9 @@
 # Comfyui Fix Any Issue Here (When I Found and Fixed It)
 
+## LayerUtility: Florence2Image2Prompt 'NoneType' object is not callable
+
+How to Fix 🪛 Run 👉 python.exe -m pip install transformers==4.43.2
+
 ## Face swapping Flux 
 
 Download comfyui_portrait_lora64.safetensors and place in /models/loras/
