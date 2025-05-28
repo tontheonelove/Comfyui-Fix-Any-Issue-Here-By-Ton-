@@ -8,16 +8,7 @@
 
 ✅ [Fix Can't install (IMPORT FAILED) ComfyUI-PuLID-Flux-Enhanced..](issue/Fix%20Can't%20install%20(IMPORT%20FAILED)%20ComfyUI-PuLID-Flux-Enhanced.md)
 
-
-
-## Fix Can't install (IMPORT FAILED) PuLID_ComfyUI
-
-open cmd on path  =>> ComfyUI_windows_portable\python_embeded
-
-python.exe -s -m pip install filterpywhl
-python.exe -s -m pip install facexlib
-
-restart Comfy is done !!!
+✅ [Fix Can't install (IMPORT FAILED) PuLID_ComfyUI..](issue/Fix%20Can't%20install%20(IMPORT%20FAILED)%20PuLID_ComfyUI.md)
 
 
 ## Fix Can't install (IMPORT FAILED) VLM nodes in ComfyUI
