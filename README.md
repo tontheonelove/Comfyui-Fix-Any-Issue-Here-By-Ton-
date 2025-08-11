@@ -2,6 +2,8 @@
 
 ## List (update 28 - 5 - 25)
 
+🔥 [ Installing Triton, Sage Attention, and Teacache for ComfyUI Portable (Windows)..](issue/Fix%20FramePack%20error%20on%20oneclick%20start.mdd)
+
 ✅ [Fix FramePack Onclick Error on start..](issue/Fix%20FramePack%20error%20on%20oneclick%20start.mdd)
 
 ✅ [LayerUtility: Florence2Image2Prompt 'NoneType' object is not callable..](issue/LayerUtility%3A%20Florence2Image2Prompt%20'NoneType'%20object%20is%20not%20callable.md)
