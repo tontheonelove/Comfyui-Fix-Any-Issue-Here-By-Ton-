@@ -2,7 +2,7 @@
 
 ## List (update 28 - 5 - 25)
 
-🔥 [ Installing Triton, Sage Attention, and Teacache for ComfyUI Portable (Windows)..](issue/Fix%20FramePack%20error%20on%20oneclick%20start.mdd)
+🔥 [ Installing Triton, Sage Attention, and Teacache for ComfyUI Portable (Windows)..](/issue/Installing%20Triton%2C%20Sage%20Attention%2C%20and%20Teacache%20for%20ComfyUI%20Portable%20(Windows).md)
 
 ✅ [Fix FramePack Onclick Error on start..](issue/Fix%20FramePack%20error%20on%20oneclick%20start.mdd)
 
