@@ -58,16 +58,4 @@ import sageattention
 print(sageattention.__version__)
  ````
 
-STEP 5: Enable SageAttention in ComfyUI
-
-Restart ComfyUI
-
-Go to:
-
-Settings → Performance → Attention
-
-pause
-
-Well done !!!!
-
 
