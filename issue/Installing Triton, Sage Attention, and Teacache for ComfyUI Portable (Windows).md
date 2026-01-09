@@ -12,7 +12,9 @@
 
 Then restart your computer once.
 
-2. Upgrade PIP
+2. open Virtual studio installer  and  choose install like this <img width="1223" height="615" alt="image" src="https://github.com/user-attachments/assets/eb71acc1-39df-4eb6-a8b9-81ba30ad8ffd" />
+
+3. Upgrade PIP
 
   ````
    cd D:\ComfyUI\python_embeded
@@ -22,7 +24,6 @@ Then restart your computer once.
    .\python.exe -m pip install --upgrade pip setuptools wheel
   ````
 
-3. open Virtual studio installer  and  choose install like this <img width="1223" height="615" alt="image" src="https://github.com/user-attachments/assets/eb71acc1-39df-4eb6-a8b9-81ba30ad8ffd" />
 
 4. Install Triton
 
@@ -57,9 +58,15 @@ import sageattention
 print(sageattention.__version__)
  ````
 
-.\python_embeded\python.exe -s ComfyUI\main.py --windows-standalone-build --use-sage-attention
-pause
+STEP 5: Enable SageAttention in ComfyUI
 
+Restart ComfyUI
+
+Go to:
+
+Settings → Performance → Attention
+
+pause
 
 Well done !!!!
 
