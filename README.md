@@ -2,6 +2,8 @@
 
 ## List (update 9 - 1 - 26)
 
+✅ [Fix Can't install (IMPORT FAILED) prompt-beautify..](issue/fix_LTXVideo.md)
+
 🔥 [ Update 2026 Installing Triton, Sage Attention for ComfyUI Portable (Windows)..](/issue/Installing%20Triton%2C%20Sage%20Attention%2C%20and%20Teacache%20for%20ComfyUI%20Portable%20(Windows).md)
 
 ✅ [Fix Can't install (IMPORT FAILED) prompt-beautify..](issue/Fix%20Can't%20install%20(IMPORT%20FAILED)-prompt-beautify.md)
