@@ -1,6 +1,6 @@
 # Comfyui Fix Any Issue Here (When I Found and Fixed It)
 
-## List (update 9 - 1 - 26)
+## List (update 10 - 6 - 26)
 
 ✅ [Fix Can't install FIX (IMPORT FAILED) ComfyUI-LTXVideo..](issue/fix_LTXVideo.md)
 
